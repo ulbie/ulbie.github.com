@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments   
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            ulbie
+tagline:          "drawing & system"
+description:      "I'll leave a trail of daily life."
+url:              http://ulbie.github.io
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+gems: [jekyll-paginate]
+paginate:         5
+paginate_path: "page:num"
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/poole/lanyon
